@@ -29,4 +29,6 @@ Step 5 : Installation and setup is done:
 
          Yor are good to go ........................................
 
+Dlib Error Solution:
+         conda install -c conda-forge dlib
 
